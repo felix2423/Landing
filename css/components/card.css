@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  height: 250px;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.fas {
+  font-size: 60px;
+  color: #206a5d;
+  padding-bottom: 30px;
+  padding-top: 25px;
+  opacity: 0.9;
+}

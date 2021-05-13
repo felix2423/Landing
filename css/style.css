@@ -1,0 +1,38 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/container.css");
+@import url("components/buttun.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
